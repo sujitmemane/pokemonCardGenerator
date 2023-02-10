@@ -4,7 +4,12 @@ This is a simple web application built with JavaScript that generates random Pok
 # How to use the app
 The application is very straightforward to use. Simply visit the website, and the app will automatically generate a random Pokemon card. You can then click on the "Generate" button to generate a new card.
 # DEMO   
-[Pokemon Card Generator](https://pokemoncardgeneratorr.netlify.app/)     
+[Pokemon Card Generator](https://pokemoncardgeneratorr.netlify.app/)   
+# Installation
+```
+git clone https://github.com/sujitmemane/pokemonCardGenerator.git
+
+```
 # API Used
 The app uses the PokeAPI to retrieve information about the Pokemon. The API provides a vast amount of information about the Pokemon, including their abilities, stats, and moves.
 
