@@ -8,7 +8,6 @@ The application is very straightforward to use. Simply visit the website, and th
 # Installation
 ```
 git clone https://github.com/sujitmemane/pokemonCardGenerator.git
-
 ```
 # API Used
 The app uses the PokeAPI to retrieve information about the Pokemon. The API provides a vast amount of information about the Pokemon, including their abilities, stats, and moves.
