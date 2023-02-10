@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: rgb(44 36 42);
+}
+
+.container {
+  width: 60vh;
+  height: auto;
+  background: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 4px;
+}
+.generate {
+  margin: 30px;
+  padding: 10px;
+  outline: none;
+  color: white;
+  background: rgb(34, 33, 32);
+  border: 3px solid rgb(34, 33, 32);
+  font-weight: bold;
+  display: block;
+  margin: 10px auto;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.pokemonImg {
+  height: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.pokeName {
+  display: block;
+  margin: 10px 0;
+  color: rgb(34, 33, 32);
+  text-align: center;
+}
+
+.stat {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  text-align: center;
+}
+
+.result {
+  padding: 40px;
+}
